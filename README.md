@@ -17,7 +17,7 @@ sudo chmod +x installdocker.sh
 
 ### Start the script
 ```bash
-sudo /home/${USER}/setup-docker/installdocker.sh
+sudo /home/${USER}/install-docker/installdocker.sh
 ```
 
 `${USER}` prints automatically your current user. Wherever you downloaded the Repository, `/look/for/that/path/installdocker.sh`.

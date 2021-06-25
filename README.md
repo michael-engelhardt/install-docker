@@ -1,4 +1,4 @@
-# Install Docker and Docker Compose on Ubuntu
+# Install Docker and Docker Compose on Ubuntu 20.04. (x86_64 / amd64)
 
 ## Check if this script is usable on your system
 ```bash
